@@ -1,0 +1,10 @@
+img{
+    max-width: 602px;
+    
+}
+
+.pele{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
